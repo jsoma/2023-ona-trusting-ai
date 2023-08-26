@@ -4,8 +4,7 @@
 
 Jonathan Soma, Knight Chair in Data Journalism at Columbia University
 
-* [js4571@columbia.edu](mailto:js4571@columbia.edu)
-* [@dangerscarf](https://twitter.com/dangerscarf)
+[js4571@columbia.edu](mailto:js4571@columbia.edu), [@dangerscarf](https://twitter.com/dangerscarf)
 
 [Slides here](ona-2023-ai-downsides.pdf)
 
