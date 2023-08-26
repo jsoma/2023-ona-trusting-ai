@@ -1,4 +1,6 @@
-# Trusting AI in the newsroom: Hallucinations, bias, security and labor
+# Trusting AI in the newsroom
+
+## Hallucinations, bias, security and labor
 
 [ONA23](https://ona23.journalists.org/), August 2023
 
