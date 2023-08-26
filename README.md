@@ -4,13 +4,13 @@
 
 Jonathan Soma, Knight Chair in Data Journalism at Columbia University
 
-[js4571@columbia.edu](mailto:js4571@columbia.edu), [@dangerscarf](https://twitter.com/dangerscarf)
+**Contact me:** [js4571@columbia.edu](mailto:js4571@columbia.edu) / [@dangerscarf](https://twitter.com/dangerscarf)
 
-[Slides here](ona-2023-ai-downsides.pdf)
+**Slides:** [right here](ona-2023-ai-downsides.pdf)
 
-My other talk at ONA: [AI Tools from Before (and Beyond!) ChatGPT](https://github.com/jsoma/2023-ona-before-beyond-chatgpt)
+**My other talk at ONA:** [AI Tools from Before (and Beyond!) ChatGPT](https://github.com/jsoma/2023-ona-before-beyond-chatgpt)
 
-[aifaq.wtf](http://aifaq.wtf/) / [normalai.org](https://normalai.org) / [investigate.ai](https://investigate.ai)
+**Some of my AI-related sites:** [aifaq.wtf](http://aifaq.wtf/) / [normalai.org](https://normalai.org) / [investigate.ai](https://investigate.ai)
 
 ## Links
 
