@@ -1,5 +1,7 @@
 # Trusting AI in the newsroom: Hallucinations, bias, security and labor
 
+[ONA23](https://ona23.journalists.org/), August 2023
+
 Jonathan Soma, Knight Chair in Data Journalism at Columbia University
 
 * [js4571@columbia.edu](mailto:js4571@columbia.edu)
