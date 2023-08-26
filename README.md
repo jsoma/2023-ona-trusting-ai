@@ -8,6 +8,10 @@ Jonathan Soma, Knight Chair in Data Journalism at Columbia University
 
 [Slides here](ona-2023-ai-downsides.pdf)
 
+My other talk at ONA: [AI Tools from Before (and Beyond!) ChatGPT](https://github.com/jsoma/2023-ona-before-beyond-chatgpt)
+
+[aifaq.wtf](http://aifaq.wtf/) / [normalai.org](https://normalai.org) / [investigate.ai](https://investigate.ai)
+
 ## Links
 
 - [Diners, Diners and Diners!](https://podcasts.apple.com/us/podcast/diners-diners-and-diners/id535559541?i=1000441803537) - plenty of facts about Waffle House, just for you
@@ -25,3 +29,7 @@ Jonathan Soma, Knight Chair in Data Journalism at Columbia University
 - [How is ChatGPT's behavior changing over time?](https://arxiv.org/abs/2307.09009)
 - [OpenAI Used Kenyan Workers on Less Than $2 Per Hour to Make ChatGPT Less Toxic](https://time.com/6247678/openai-chatgpt-kenya-workers/), Time
 - [Classification](https://jsoma.github.io/2023-abraji-ai-workshop/#classification)
+- [Document Summaries in Danish with OpenAI](https://generative-ai-newsroom.com/summaries-in-danish-with-openai-cbb814a119f2)
+- [Creepy WaPo testing space](https://huggingface.co/spaces/wendys-llc/wendys-llc-creepy-wapo)
+- [AI Snake Oil](https://www.aisnakeoil.com/)
+- [aifaq.wtf](http://aifaq.wtf/)
